@@ -16,7 +16,7 @@ frontend:
 
 ### HACS installation
 1. Go into the Community Store (HACS)
-2. Go to settings and add custom respository https://github.com/Banditen01/vintage_theme chose themes as category
+2. Go to settings and add custom repository "https://github.com/Banditen01/vintage_theme" chose "themes" as category
 3. Search for Vintage under themes
 3. Open the theme
 4. Press Install
