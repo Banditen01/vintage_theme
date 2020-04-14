@@ -1,5 +1,5 @@
 # Vintage Theme
-Vintage theme original made by Surendran Anup (https://github.com/surendrananup/home-assistant/tree/master/themes) updated and HACS adapted.
+Vintage theme original made by Anup Surendran (https://github.com/surendrananup/home-assistant/tree/master/themes) updated and HACS adapted.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
@@ -16,7 +16,8 @@ frontend:
 
 ### HACS installation
 1. Go into the Community Store (HACS)
-2. Search for Vintage
+2. Go to settings and add custom respository https://github.com/Banditen01/vintage_theme chose themes as category
+3. Search for Vintage under themes
 3. Open the theme
 4. Press Install
 5. Restart Home Assistant
