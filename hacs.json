@@ -1,5 +1,6 @@
 {
     "name": "Vintage",
     "country": "SE",
+    "render_readme": true,    
     "filename": "themes/vintage.yaml"    
 }
