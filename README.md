@@ -27,7 +27,7 @@ frontend:
 2. Under the Home Assistant **Config** folder, create a new folder named **themes**
 3. **Restart** Home assistant to apply the changes. 
 
-### HACS installation
+### HACS installation  -  Press [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs) for tutorial.
 1. Go into the **Community Store** (HACS)
 2. Go to **settings** and **add custom repository** "https://github.com/Banditen01/vintage_theme" chose "themes" as **category**
 3. Search for Vintage under themes
