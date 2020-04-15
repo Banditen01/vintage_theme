@@ -6,7 +6,7 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 ### Screenshots
 **1. Desktop**
 <p align="center">
-  <img src="[img]https://i.imgur.com/2AZBbkgl.jpg[/img]">
+  <img src="https://i.imgur.com/2AZBbkgl.jpg">
 </p>
 
 ### Preparation
