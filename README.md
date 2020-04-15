@@ -5,6 +5,7 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 
 ### Screenshots
 **1. Desktop**
+<a href="https://imgur.com/2AZBbkg"><img src="https://i.imgur.com/2AZBbkgl.jpg" title="source: imgur.com" /></a>
 <p align="center">
   <img src="https://imgur.com/2AZBbkg">
 </p>
