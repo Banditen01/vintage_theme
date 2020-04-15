@@ -15,7 +15,6 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 <p align="center">
   <img src="https://i.imgur.com/5bBNotZl.jpg">
 </p>
-[img]https://i.imgur.com/YnUiXqel.jpg[/img]
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
