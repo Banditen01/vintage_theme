@@ -3,6 +3,12 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
+### Screenshots
+**1. Desktop**
+<p align="center">
+  <img src="https://imgur.com/2AZBbkg">
+</p>
+
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
 
