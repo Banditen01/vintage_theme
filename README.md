@@ -6,14 +6,14 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 ### Screenshots
 **1. Desktop**
 <p align="center">
-  <img src="https://i.imgur.com/2AZBbkgl.jpg">
+  <img src="https://i.imgur.com/2AZBbkg.jpg">
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/YnUiXqel.jpg">
+  <img src="https://i.imgur.com/YnUiXqe.jpg">
 </p>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/5bBNotZl.jpg">
+  <img src="https://i.imgur.com/5bBNotZ.jpg">
 </p>
 
 ### Preparation
