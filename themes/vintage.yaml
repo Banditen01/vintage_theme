@@ -27,8 +27,8 @@ vintage:
   sidebar-background-color: "var(--turmeric-color)"
 
   # Buttons
-  paper-item-icon-color: rgb(169, 177, 188)
-  paper-item-icon-active-color: rgb(138, 180, 248)  
+  paper-item-icon-color: "var(--light-slate-color)"
+  paper-item-icon-active-color: "var(--light-slate-color)"  
 
   # States and Badges
 
