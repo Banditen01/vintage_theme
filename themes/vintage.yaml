@@ -8,6 +8,7 @@ vintage:
   slate-color: "#0A373A"
   light-slate-color: "#789F8A"
   maroon-color: "#862715"
+  app-header-text-color: "#fafcfb"
 
   # Main Interface Colors
   primary-color: "var(--slate-color)"
@@ -27,8 +28,8 @@ vintage:
   sidebar-background-color: "var(--turmeric-color)"
 
   # Buttons
-  paper-item-icon-color: "#fafcfb"
-  paper-item-icon-active-color: "#fafcfb"  
+  paper-item-icon-color: "var(--app-header-text-color"
+  paper-item-icon-active-color: "var(--app-header-text-color"
 
   # States and Badges
 
