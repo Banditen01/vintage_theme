@@ -20,11 +20,15 @@ vintage:
   # Text
   primary-text-color: "var(--slate-color)"
   secondary-text-color: "var(--slate-color)"
-  text-primary-color: "var(--slate-color)"
+  text-primary-color: "var(--light-slate-color)"
   disabled-text-color: "var(--light-slate-color)"
 
   # Sidebar Menu
   sidebar-background-color: "var(--turmeric-color)"
+
+  # Buttons
+  paper-item-icon-color: rgb(169, 177, 188)
+  paper-item-icon-active-color: rgb(138, 180, 248)  
 
   # States and Badges
 
