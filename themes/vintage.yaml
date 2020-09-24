@@ -41,7 +41,7 @@ vintage:
   label-badge-red: "var(--maroon-color)"
 
   # Cards
-  card-background-color: "var(--slate-color)"
+  card-background-color: "var(--light-slate-color)"
   ha-card-border-radius: "15px"
   ha-card-box-shadow: 1px 1px 5px 0px rgb(12, 12, 14)
   paper-dialog-background-color: "var(--light-slate-color)"
