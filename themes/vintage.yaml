@@ -20,6 +20,7 @@ vintage:
   # Text
   primary-text-color: "var(--slate-color)"
   secondary-text-color: "var(--slate-color)"
+  text-primary-color: "var(--slate-color)"
   disabled-text-color: "var(--light-slate-color)"
 
   # Sidebar Menu
