@@ -37,7 +37,7 @@ vintage:
   paper-slider-knob-color: "var(--slate-color)"
   paper-slider-knob-start-color: "var(--slate-color)"
   paper-slider-pin-color: "var(--slate-color)"
-  paper-slider-active-color: "var(--slate-color)"
+  paper-slider-active-color: "var(--maroon-color)"
   paper-slider-secondary-color: "var(--light-turmeric-color)"
 
   # Labels
@@ -50,7 +50,7 @@ vintage:
   ha-card-border-radius: "15px"
   ha-card-box-shadow: 1px 1px 5px 0px rgb(12, 12, 14)
   paper-dialog-background-color: "var(--light-slate-color)"
-  paper-listbox-background-color: "var(--light-slate-color)"
+  paper-listbox-background-color: "var(--turmeric-color)"
   paper-card-background-color: "var(--light-slate-color)"
 
   # Switches
@@ -79,9 +79,7 @@ vintage:
 
 
   # Unsure were to put
-  #paper-listbox-background-color: "var(--turmeric-color)"
   paper-item-selected_-_background-color: "var(--light-turmeric-color)"
   paper-grey-200: "var(--light-turmeric-color)"
   paper-grey-50: "var(--slate-color)"
   paper-listbox-color: "var(--maroon-color)"
-  #paper-slider-active-color: "var(--maroon-color)"
