@@ -28,8 +28,8 @@ vintage:
   sidebar-background-color: "var(--turmeric-color)"
 
   # Buttons
-  paper-item-icon-color: "var(--app-header-text-color"
-  paper-item-icon-active-color: "var(--app-header-text-color"
+  paper-item-icon-color: "var(--app-header-text-color)"
+  paper-item-icon-active-color: "var(--app-header-text-color)"
 
   # States and Badges
 
@@ -73,15 +73,15 @@ vintage:
   paper-font-title_-_font-family: "var(--primary-font-family)"
 
   # Icon
-  paper-item-icon-color: "var(--slate-color)"
+  #paper-item-icon-color: "var(--slate-color)"
   paper-item-icon_-_color: "var(--slate-color)"
-  paper-item-icon-active-color: "var(--maroon-color)"
+  #paper-item-icon-active-color: "var(--maroon-color)"
 
 
   # Unsure were to put
-  paper-listbox-background-color: "var(--turmeric-color)"
+  #paper-listbox-background-color: "var(--turmeric-color)"
   paper-item-selected_-_background-color: "var(--light-turmeric-color)"
   paper-grey-200: "var(--light-turmeric-color)"
   paper-grey-50: "var(--slate-color)"
   paper-listbox-color: "var(--maroon-color)"
-  paper-slider-active-color: "var(--maroon-color)"
+  #paper-slider-active-color: "var(--maroon-color)"
