@@ -28,8 +28,6 @@ vintage:
   sidebar-background-color: "var(--turmeric-color)"
 
   # Buttons
-  #paper-item-icon-color: "var(--app-header-text-color)"
-  #paper-item-icon-active-color: "var(--app-header-text-color)"
 
   # States and Badges
 
