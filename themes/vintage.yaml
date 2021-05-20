@@ -32,6 +32,9 @@ vintage:
   paper-item-icon-active-color: "var(--maroon-color)"
 
   # States and Badges
+  state-icon-color: "var(--slate-color)"
+  state-icon-active-color: "var(--maroon-color)"
+  ##state-icon-unavailable-color: var(--disabled-text-color)
 
   # Sliders
   paper-slider-knob-color: "var(--slate-color)"
