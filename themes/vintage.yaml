@@ -57,6 +57,10 @@ vintage:
   paper-card-background-color: "var(--light-slate-color)"
 
   # Switches
+  switch-checked-button-color: "var(--maroon-color)"
+  switch-checked-track-color: "var(--maroon-color)"
+  switch-unchecked-button-color: "var(--slate-color)"
+  switch-unchecked-track-color: "var(--slate-color)"
 
   # Toggles
   paper-toggle-button-checked-button-color: "var(--slate-color)"
