@@ -10,10 +10,7 @@ vintage:
   light-slate-color: "#789F8A"
   maroon-color: "#862715"
   app-header-text-color: "#fafcfb"
-<<<<<<< HEAD
   app-theme-color: "#0A373A"
-=======
->>>>>>> 51fa000a2ecf95f5c6d4454a0f676fe379eac9f5
 
   # Main Interface Colors
   primary-color: "var(--slate-color)"
