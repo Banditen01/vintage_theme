@@ -96,19 +96,8 @@ vintage:
 
   # Test
 
-primary-color: "var(--slate-color)"
-paper-grey-50: "var(--slate-color)"        
-primary-text-color: "var(--slate-color)" 
-secondary-text-color: "var(--slate-color)"
-paper-item-icon-color: "var(--slate-color)"
-label-badge-text-color: "var(--slate-color)"
-paper-item-icon_-_color: "var(--slate-color)"
-paper-slider-knob-color: "var(--slate-color)"
-paper-slider-knob-start-color: "var(--slate-color)"
-paper-slider-pin-color: "var(--slate-color)"
 paper-toggle-button-checked-button-color: "var(--slate-color)"
 paper-toggle-button-unchecked-bar-color: "var(--slate-color)"        
 paper-card-header-color: "var(--slate-color)"  
-disabled-text-color: "var(--light-slate-color)"
 paper-card-background-color: "var(--light-slate-color)"     
 label-badge-background-color: "var(--light-slate-color)"  
