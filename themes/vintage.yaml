@@ -1,16 +1,19 @@
-
 # A vintage style theme
 # Creater: Anup - @surendrananup updated and adapted to HACS by @Banditen01
 vintage:
-  # Header:
+
+# Var:
   primary-font-family: "Lucida Console"
   turmeric-color: "#DEB853"
   light-turmeric-color: "#E2D9A2"
   slate-color: "#0A373A"
   light-slate-color: "#789F8A"
   maroon-color: "#862715"
-  app-header-text-color: "#fafcfb"
-  app-theme-color: "#0A373A"
+  text-color: "#fafcfb"
+
+  # Header:
+  app-header-text-color: "var(--text-color)"
+  app-header-background-color: "var(--slate-color)"
 
   # Main Interface Colors
   primary-color: "var(--slate-color)"
@@ -30,13 +33,8 @@ vintage:
   sidebar-background-color: "var(--turmeric-color)"
 
   # Buttons
-  paper-item-icon-color: "var(--slate-color)"
-  paper-item-icon-active-color: "var(--maroon-color)"
 
   # States and Badges
-  state-icon-color: "var(--slate-color)"
-  state-icon-active-color: "var(--maroon-color)"
-  ##state-icon-unavailable-color: var(--disabled-text-color)
 
   # Sliders
   paper-slider-knob-color: "var(--slate-color)"
@@ -59,15 +57,10 @@ vintage:
   paper-card-background-color: "var(--light-slate-color)"
 
   # Switches
-  #switch-checked-button-color: "var(--maroon-color)"
-  #switch-checked-track-color: "var(--maroon-color)"
-  #switch-unchecked-button-color: "var(--slate-color)"
-  #switch-unchecked-track-color: "var(--slate-color)"
 
   # Toggles
-  paper-toggle-button-checked-button-color: "var(--maroon-color)"
-  paper-toggle-button-checked-bar-color: "var(--maroon-color)"
-  paper-toggle-button-unchecked-button-color: "var(--slate-color)"
+  paper-toggle-button-checked-button-color: "var(--slate-color)"
+  paper-toggle-button-checked-bar-color: "var(--light-turmeric-color)"
   paper-toggle-button-unchecked-bar-color: "var(--slate-color)"
   paper-toggle-button-checked-ink-color: "var(--maroon-color)"
 
@@ -83,9 +76,9 @@ vintage:
   paper-font-title_-_font-family: "var(--primary-font-family)"
 
   # Icon
-  #paper-item-icon-color: "var(--slate-color)"
+  paper-item-icon-color: "var(--slate-color)"
   paper-item-icon_-_color: "var(--slate-color)"
-  #paper-item-icon-active-color: "var(--maroon-color)"
+  paper-item-icon-active-color: "var(--maroon-color)"
 
 
   # Unsure were to put
@@ -93,11 +86,3 @@ vintage:
   paper-grey-200: "var(--light-turmeric-color)"
   paper-grey-50: "var(--slate-color)"
   paper-listbox-color: "var(--maroon-color)"
-
-  # Test
-
-paper-toggle-button-checked-button-color: "var(--slate-color)"
-paper-toggle-button-unchecked-bar-color: "var(--slate-color)"        
-paper-card-header-color: "var(--slate-color)"  
-paper-card-background-color: "var(--light-slate-color)"     
-label-badge-background-color: "var(--light-slate-color)"  
