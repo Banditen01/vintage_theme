@@ -7,7 +7,9 @@ vintage:
   turmeric-color: "#DEB853"
   light-turmeric-color: "#E2D9A2"
   slate-color: "#0A373A"
+  medium-slate-color: "#48534a"
   light-slate-color: "#789F8A"
+  grey-slate-color: "#919892"
   maroon-color: "#862715"
   text-color: "#fafcfb"
 
@@ -43,6 +45,19 @@ vintage:
   paper-slider-active-color: "var(--maroon-color)"
   paper-slider-secondary-color: "var(--light-turmeric-color)"
 
+  paper-toggle-button-checked-bar-color: "var(--slate-color)"
+  paper-toggle-button-checked-button-color: "var(--slate-color)"
+  paper-toggle-button-checked-ink-color: "var(--slate-color)"
+
+  md-slider-handle-color: "var(--slate-color)"
+  md-slider-active-track-color: "var(--slate-color)"
+  md-slider-hover-handle-color: "var(--slate-color)"
+  md-slider-pressed-handle-color: "var(--slate-color)"
+  md-slider-focus-handle-color: "var(--slate-color)"
+  md-slider-hover-state-layer-color: "var(--slate-color)"
+  md-slider-label-container-color: "var(--slate-color)"
+  md-slider-pressed-state-layer-color: "var(--slate-color)"
+
   # Labels
   label-badge-background-color: "var(--light-slate-color)"
   label-badge-text-color: "var(--slate-color)"
@@ -59,10 +74,10 @@ vintage:
   # Switches
 
   # Toggles
-  paper-toggle-button-checked-button-color: "var(--slate-color)"
-  paper-toggle-button-checked-bar-color: "var(--light-turmeric-color)"
+  #paper-toggle-button-checked-button-color: "var(--slate-color)"
+  #paper-toggle-button-checked-bar-color: "var(--light-turmeric-color)"
   paper-toggle-button-unchecked-bar-color: "var(--slate-color)"
-  paper-toggle-button-checked-ink-color: "var(--maroon-color)"
+  #paper-toggle-button-checked-ink-color: "var(--maroon-color)"
 
   # Table
 
@@ -86,3 +101,8 @@ vintage:
   paper-grey-200: "var(--light-turmeric-color)"
   paper-grey-50: "var(--slate-color)"
   paper-listbox-color: "var(--maroon-color)"
+  ha-switch-background-color: "var(--light-turmeric-color)"
+  ha-switch-checked-background-color: "var(--light-turmeric-color)"
+  ha-switch-checked-border-color: "var(--light-turmeric-color)"
+  ha-switch-checked-thumb-background-color: "var(--slate-color)"
+  ha-switch-checked-thumb-border-color: "var(--slate-color)"
