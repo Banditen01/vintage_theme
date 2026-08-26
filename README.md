@@ -35,9 +35,9 @@ frontend:
 5. Restart Home Assistant
 
 ### Manual installation
-1. In the Home assistant **themes** folder, create a file named `vintage.yaml`
-2. In this GitHub repo, go into the **themes** folder, open the `vintage.yaml` file and copy the content
-3. Paste the content in the `vintage.yaml` file created under your Home Assistant themes folder
+1. In the Home assistant **themes** folder, create a two files named `vintage.yaml` and `vintage_classic_modern.css`
+2. In this GitHub repo, go into the **themes** folder, open the `vintage.yaml` and `vintage_classic_modern.css` and copy the content
+3. Paste the content in the `vintage.yaml` file and `vintage_classic_modern.css` file created under your Home Assistant themes folder
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
