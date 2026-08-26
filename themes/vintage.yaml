@@ -1,108 +1,191 @@
 # A vintage style theme
 # Creater: Anup - @surendrananup updated and adapted to HACS by @Banditen01
-vintage:
+vintage-classic-modern:
 
-# Var:
+  card-mod-theme: vintage-classic-modern
+
+  #################################################
+  # FONT
+  #################################################
+
   primary-font-family: "Lucida Console"
+
+  #################################################
+  # COLORS
+  #################################################
+
   turmeric-color: "#DEB853"
   light-turmeric-color: "#E2D9A2"
+
   slate-color: "#0A373A"
-  medium-slate-color: "#48534a"
+  medium-slate-color: "#48534A"
   light-slate-color: "#789F8A"
   grey-slate-color: "#919892"
+
   maroon-color: "#862715"
-  text-color: "#fafcfb"
+  text-color: "#FAFCFB"
 
-  # Header:
-  app-header-text-color: "var(--text-color)"
-  app-header-background-color: "var(--slate-color)"
+  #################################################
+  # WEB AWESOME (HA 2026)
+  #################################################
 
-  # Main Interface Colors
-  primary-color: "var(--slate-color)"
-  light-primary-color: "var(--light-turmeric-color)"
-  dark-primary-color: "var(--maroon-color)"
-  primary-background-color: "var(--light-turmeric-color)"
-  secondary-background-color: "var(--light-turmeric-color)"
-  divider-color: "var(--light-turmeric-color)"
+  wa-color-brand-on-normal: "#0A373A"
+  wa-color-brand-on-hover: "#0A373A"
+  wa-color-brand-on-active: "#0A373A"
 
-  # Text
-  primary-text-color: "var(--slate-color)"
-  secondary-text-color: "var(--slate-color)"
-  text-primary-color: "var(--light-slate-color)"
-  disabled-text-color: "var(--light-slate-color)"
+  wa-color-on-brand: "#0A373A"
 
-  # Sidebar Menu
-  sidebar-background-color: "var(--turmeric-color)"
+  #################################################
+  # TEXT
+  #################################################
 
-  # Buttons
+  primary-text-color: "#0A373A"
+  secondary-text-color: "#0A373A"
+  text-primary-color: "#0A373A"
+  disabled-text-color: "#919892"
 
-  # States and Badges
+  #################################################
+  # PRIMARY
+  #################################################
 
-  # Sliders
-  paper-slider-knob-color: "var(--slate-color)"
-  paper-slider-knob-start-color: "var(--slate-color)"
-  paper-slider-pin-color: "var(--slate-color)"
-  paper-slider-active-color: "var(--maroon-color)"
-  paper-slider-secondary-color: "var(--light-turmeric-color)"
+  primary-color: "#0A373A"
+  accent-color: "#862715"
 
-  paper-toggle-button-checked-bar-color: "var(--slate-color)"
-  paper-toggle-button-checked-button-color: "var(--slate-color)"
-  paper-toggle-button-checked-ink-color: "var(--slate-color)"
+  link-text-color: "#0A373A"
+  text-accent-color: "#0A373A"
 
-  md-slider-handle-color: "var(--slate-color)"
-  md-slider-active-track-color: "var(--slate-color)"
-  md-slider-hover-handle-color: "var(--slate-color)"
-  md-slider-pressed-handle-color: "var(--slate-color)"
-  md-slider-focus-handle-color: "var(--slate-color)"
-  md-slider-hover-state-layer-color: "var(--slate-color)"
-  md-slider-label-container-color: "var(--slate-color)"
-  md-slider-pressed-state-layer-color: "var(--slate-color)"
+  #################################################
+  # MATERIAL DESIGN 3
+  #################################################
 
-  # Labels
-  label-badge-background-color: "var(--light-slate-color)"
-  label-badge-text-color: "var(--slate-color)"
-  label-badge-red: "var(--maroon-color)"
+  md-sys-color-primary: "#0A373A"
+  md-sys-color-secondary: "#862715"
 
-  # Cards
-  card-background-color: "var(--light-slate-color)"
+  md-sys-color-on-primary: "#FAFCFB"
+  md-sys-color-on-secondary: "#FAFCFB"
+
+  mdc-theme-primary: "#0A373A"
+  mdc-theme-secondary: "#DEB853"
+
+  #################################################
+  # BACKGROUND
+  #################################################
+
+  primary-background-color: "#E2D9A2"
+  secondary-background-color: "#E2D9A2"
+
+  material-background-color: "#E2D9A2"
+  divider-color: "#E2D9A2"
+
+  #################################################
+  # HEADER
+  #################################################
+
+  app-header-background-color: "#0A373A"
+  app-header-text-color: "#FAFCFB"
+
+  #################################################
+  # SIDEBAR
+  #################################################
+
+  sidebar-background-color: "#DEB853"
+
+  sidebar-text-color: "#0A373A"
+  sidebar-icon-color: "#0A373A"
+
+  sidebar-selected-background-color: "#862715"
+  sidebar-selected-text-color: "#FAFCFB"
+  sidebar-selected-icon-color: "#FAFCFB"
+
+  #################################################
+  # CARDS
+  #################################################
+
+  card-background-color: "#789F8A"
+  paper-card-background-color: "#789F8A"
+  paper-dialog-background-color: "#789F8A"
+
+  paper-card-header-color: "#0A373A"
+
   ha-card-border-radius: "15px"
-  ha-card-box-shadow: 1px 1px 5px 0px rgb(12, 12, 14)
-  paper-dialog-background-color: "var(--light-slate-color)"
-  paper-listbox-background-color: "var(--turmeric-color)"
-  paper-card-background-color: "var(--light-slate-color)"
 
-  # Switches
+  ha-card-box-shadow: >
+    1px 1px 5px 0px rgb(12,12,14)
 
-  # Toggles
-  #paper-toggle-button-checked-button-color: "var(--slate-color)"
-  #paper-toggle-button-checked-bar-color: "var(--light-turmeric-color)"
-  paper-toggle-button-unchecked-bar-color: "var(--slate-color)"
-  #paper-toggle-button-checked-ink-color: "var(--maroon-color)"
+  #################################################
+  # ICONS
+  #################################################
 
-  # Table
+  state-icon-color: "#0A373A"
 
-  # Font
-  paper-font-common-base_-_font-family: "var(--primary-font-family)"
-  paper-font-common-code_-_font-family: "var(--primary-font-family)"
-  paper-font-body1_-_font-family: "var(--primary-font-family)"
-  paper-font-subhead_-_font-family: "var(--primary-font-family)"
-  paper-font-headline_-_font-family: "var(--primary-font-family)"
-  paper-font-caption_-_font-family: "var(--primary-font-family)"
-  paper-font-title_-_font-family: "var(--primary-font-family)"
+  paper-item-icon-color: "#0A373A"
+  paper-item-icon-active-color: "#862715"
 
-  # Icon
-  paper-item-icon-color: "var(--slate-color)"
-  paper-item-icon_-_color: "var(--slate-color)"
-  paper-item-icon-active-color: "var(--maroon-color)"
+  #################################################
+  # SCRIPTS
+  #################################################
 
+  state-script-color: "#0A373A"
 
-  # Unsure were to put
-  paper-item-selected_-_background-color: "var(--light-turmeric-color)"
-  paper-grey-200: "var(--light-turmeric-color)"
-  paper-grey-50: "var(--slate-color)"
-  paper-listbox-color: "var(--maroon-color)"
-  ha-switch-background-color: "var(--light-turmeric-color)"
-  ha-switch-checked-background-color: "var(--light-turmeric-color)"
-  ha-switch-checked-border-color: "var(--light-turmeric-color)"
-  ha-switch-checked-thumb-background-color: "var(--slate-color)"
-  ha-switch-checked-thumb-border-color: "var(--slate-color)"
+  #################################################
+  # SWITCHES
+  #################################################
+
+  # OFF
+
+  ha-switch-background-color: "#919892"
+  ha-switch-border-color: "#0A373A"
+
+  ha-switch-thumb-background-color: "#d3d5d3"
+  ha-color-on-neutral: "#F3F3F3"
+
+  # ON
+
+  ha-switch-checked-background-color: "#E2D9A2"
+  ha-switch-checked-border-color: "#0A373A"
+
+  ha-switch-checked-thumb-background-color: "#862715"
+  ha-switch-checked-thumb-border-color: "#0A373A"
+
+  # Legacy
+
+  paper-toggle-button-unchecked-bar-color: "#919892"
+  paper-toggle-button-unchecked-button-color: "#F3F3F3"
+
+  paper-toggle-button-checked-bar-color: "#862715"
+  paper-toggle-button-checked-button-color: "#FAFCFB"
+
+  # MDC
+
+  mdc-switch-unselected-track-color: "#919892"
+  mdc-switch-unselected-handle-color: "#F3F3F3"
+
+  mdc-switch-selected-track-color: "#862715"
+  mdc-switch-selected-handle-color: "#FAFCFB"
+
+  #################################################
+  # TABS
+  #################################################
+
+  paper-tabs-selection-bar-color: "#862715"
+
+  #################################################
+  # MUSHROOM
+  #################################################
+
+  mushroom-card-background-color: "#789F8A"
+
+  mushroom-primary-text-color: "#0A373A"
+  mushroom-secondary-text-color: "#48534A"
+
+  #################################################
+  # LEGACY FONT SUPPORT
+  #################################################
+
+  paper-font-common-base_-_font-family: "Lucida Console"
+  paper-font-common-code_-_font-family: "Lucida Console"
+  paper-font-body1_-_font-family: "Lucida Console"
+  paper-font-subhead_-_font-family: "Lucida Console"
+  paper-font-headline_-_font-family: "Lucida Console"
+  paper-font-caption_-_font-family: "Lucida Console"
+  paper-font-title_-_font-family: "Lucida Console"

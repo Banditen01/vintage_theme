@@ -1,0 +1,45 @@
+:root {
+
+  --md-sys-color-primary: #0A373A !important;
+  --md-sys-color-secondary: #862715 !important;
+
+  --mdc-theme-primary: #0A373A !important;
+
+  --primary-color: #0A373A !important;
+  --link-text-color: #0A373A !important;
+  --text-accent-color: #0A373A !important;
+
+}
+
+/* Alla länkar */
+a {
+  color: #0A373A !important;
+}
+
+/* Material Design knappar */
+.mdc-button {
+  color: #0A373A !important;
+}
+
+/* Tabs */
+.mdc-tab {
+  color: #0A373A !important;
+}
+
+.mdc-tab--active {
+  color: #0A373A !important;
+}
+
+.mdc-tab-indicator__content {
+  border-color: #862715 !important;
+}
+
+/* Developer Tools */
+ha-tab {
+  color: #0A373A !important;
+}
+
+/* Primär text */
+.primary {
+  color: #0A373A !important;
+}
