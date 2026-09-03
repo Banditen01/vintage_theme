@@ -133,19 +133,19 @@ vintage-classic-modern:
 
   # OFF
 
-  ha-switch-background-color: "#919892"
-  ha-switch-border-color: "#0A373A"
+  ha-switch-background-color: "#0A373A"
+  ha-switch-border-color: "#48534A"
 
-  ha-switch-thumb-background-color: "#d3d5d3"
+  ha-switch-thumb-background-color: "#48534A"
   ha-color-on-neutral: "#F3F3F3"
 
   # ON
 
-  ha-switch-checked-background-color: "#E2D9A2"
-  ha-switch-checked-border-color: "#0A373A"
+  ha-switch-checked-background-color: "#0A373A"
+  ha-switch-checked-border-color: "#48534A"
 
-  ha-switch-checked-thumb-background-color: "#862715"
-  ha-switch-checked-thumb-border-color: "#0A373A"
+  ha-switch-checked-thumb-background-color: "#E2D9A2"
+  ha-switch-checked-thumb-border-color: "#DEB853"
 
   # Legacy
 
