@@ -1,5 +1,4 @@
 # Vintage Theme
-Vintage theme original made by Anup Surendran (https://github.com/surendrananup/home-assistant/tree/master/themes) updated and HACS adapted.
 
 [![hacs_badge](https://shields.io)](https://github.com) 
 [![GitHub release (latest by date)](https://shields.io)](https://github.com) 
@@ -7,6 +6,7 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 
 
 ### Screenshots
+
 **1. Desktop**
 <p align="center">
   <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_1.png">
