@@ -1,11 +1,13 @@
 # Vintage Theme
 
-[![hacs_badge](https://shields.io)](https://github.com) 
-[![GitHub release (latest by date)](https://shields.io)](https://github.com) 
+Vintage theme original made by Anup Surendran ( https://github.com) updated and HACS adapted.
+
+[![hacs_badge](https://shields.io)](https://github.com)
+[![GitHub release (latest by date)](https://shields.io)](https://github.com)
 [![GitHub All Releases](https://shields.io)](https://github.com)
 
-
 ### Screenshots
+
 
 **1. Desktop**
 <p align="center">
