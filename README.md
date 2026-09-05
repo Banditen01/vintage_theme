@@ -2,10 +2,12 @@
 
 Vintage theme original made by Anup Surendran ( https://github.com) updated and HACS adapted.
 
-[![hacs_badge](https://shields.io)](https://github.com)
-[![GitHub release](https://shields.io)](https://github.com)
-[![GitHub Downloads](https://shields.io)](https://github.com)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
+[![GH-release](https://img.shields.io/github/v/release/Banditen01/vintage_theme.svg?style=flat-square)](https://github.com/Banditen01/vintage_theme/releases)
+[![GH-downloads](https://img.shields.io/github/downloads/Banditen01/vintage_theme/total?style=flat-square)](https://github.com/Banditen01/vintage_theme/releases)
+[![GH-last-commit](https://img.shields.io/github/last-commit/Banditen01/vintage_theme.svg?style=flat-square)](https://github.com/Banditen01/vintage_theme/commits/master)
+[![GH-code-size](https://img.shields.io/github/languages/code-size/Banditen01/vintage_theme.svg?color=red&style=flat-square)](https://github.com/Banditen01/vintage_theme)
 
 ### Screenshots
 
