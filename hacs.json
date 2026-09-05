@@ -1,8 +1,5 @@
 {
-    "name": "Vintage",
-    "render_readme": true,
-    "filename": [
-        "themes/vintage.yaml",
-        "themes/vintage_classic_modern.css"
-    ]
+  "name": "Vintage Theme",
+  "zip_release": true,
+  "filename": "vintage_theme.zip"
 }
