@@ -2,7 +2,10 @@
 Vintage theme original made by Anup Surendran (https://github.com/surendrananup/home-assistant/tree/master/themes) updated and HACS adapted.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://shields.io)](https://github.com)
+[![GitHub release (latest by date)](https://shields.io)](https://github.com)
 [![GitHub All Releases](https://shields.io)](https://github.com)
+
 
 ### Screenshots
 **1. Desktop**
