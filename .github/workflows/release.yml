@@ -1,0 +1,22 @@
+name: Package Theme Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create Theme Archive
+        run: zip -r vintage_theme.zip themes/ README.md hacs.json
+
+      - name: Upload Zip to Release Assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: vintage_theme.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
