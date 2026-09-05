@@ -6,14 +6,14 @@ Vintage theme original made by Anup Surendran (https://github.com/surendrananup/
 ### Screenshots
 **1. Desktop**
 <p align="center">
-  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_1.jpeg">
+  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_1.png">
 </p>
 <p align="center">
-  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_2.jpeg">
+  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_2.png">
 </p>
 </p>
 <p align="center">
-  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_3.jpeg">
+  <img src="https://github.com/Banditen01/vintage_theme/blob/master/images/vintage_3.png">
 </p>
 
 ### Preparation
