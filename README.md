@@ -2,7 +2,9 @@
 
 Vintage theme original made by Anup Surendran ( https://github.com) updated and HACS adapted.
 
-[![hacs_badge](https://shields.io)](https://github.com) [![GitHub release](https://shields.io)](https://github.com) [![GitHub Downloads](https://shields.io)](https://github.com)
+[![hacs_badge](https://shields.io)](https://github.com)
+[![GitHub release](https://shields.io)](https://github.com)
+[![GitHub Downloads](https://shields.io)](https://github.com)
 
 
 ### Screenshots
